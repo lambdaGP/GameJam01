@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3700a8e317f8b0f4c84fa6203b16d9a8
+guid: dac708ff1687b344aaafb87773d44d42
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -7,8 +7,13 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Material.003
-    second: {fileID: 2100000, guid: 234c3bc99bdc425418b5d701b21a7ed5, type: 2}
+      name: Material.001
+    second: {fileID: 2100000, guid: 12d7580731ada1b4b9db6348ae40b667, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: emision
+    second: {fileID: 2100000, guid: c897da4ba661fda4cbb982f2f49e0528, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
